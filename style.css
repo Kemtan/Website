@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+#top{
+    background-image: linear-gradient(orange, rgb(255, 200, 0));
+}
+
+#container{
+    font-family: Roboto;
+    font-size: 1em;
+    margin-left: 15px;
+    display: flex;
+}
+
+#gambar{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+#title{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#control{
+    margin-left: 15px;
+}
+
+#lyric{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.spacing{
+    margin-bottom: 0px;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
